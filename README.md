@@ -10,7 +10,7 @@ mkdir HCalAnalyzer\
 cd HCalAnalyzer
 
 After setting up local git client, \
-git clone https://tokenhere@github.com/username/repositoryname.git \
+git clone https://tokenhere@github.com/Squad-ITU/Raddam.git \
 scram b -j32 
 
 At CMSSW_12_4_4/src/HCalAnalyzer/HBHEHFMonitor/test/01, you can try
