@@ -5,7 +5,7 @@ Create a CMSSW environment
 
 cmsrel CMSSW_12_4_4\
 cd src\
-cmsenv\
+cmsenv
 
 After setting up local git client, \
 git clone https://tokenhere@github.com/Squad-ITU/Raddam.git \
